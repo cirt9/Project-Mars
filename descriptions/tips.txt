@@ -1,0 +1,6 @@
+Na poczatku powinienes ulepszyc baze w panelu "Baza".
+Chorzy ludzie pracujac, zwiekszaja swoja szanse na pogorszenie stanu zdrowia.
+Jesli zniszczysz pojazd gdy bedzie poza baza to ludzie w nim przebywajacy zgina.
+Na kazdy poziom bazy przypada mozliwosc zbudowania jednego budynku.
+Pojazdy naprawiasz surowcami, ktore znajduja sie w pojezdzie.
+W grze dziala autozapis.
